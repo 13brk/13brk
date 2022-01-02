@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Burkby on github</title>
     <link>https://burkby.github.io/burkby/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Burkby on github</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2022 21:32:14 -0500</lastBuildDate><atom:link href="https://burkby.github.io/burkby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://burkby.github.io/burkby/about/</link>
+      <pubDate>Sat, 01 Jan 2022 21:52:21 -0500</pubDate>
+      
+      <guid>https://burkby.github.io/burkby/about/</guid>
+      <description>Dude writing things on the internet.</description>
+    </item>
+    
     <item>
       <title>Hello</title>
       <link>https://burkby.github.io/burkby/posts/hello/</link>
