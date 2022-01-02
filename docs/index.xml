@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://burkby.github.io/</link>
+    <link>https://burkby.github.io/burkby/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2022 21:32:14 -0500</lastBuildDate><atom:link href="https://burkby.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 21:32:14 -0500</lastBuildDate><atom:link href="https://burkby.github.io/burkby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>https://burkby.github.io/posts/hello/</link>
+      <link>https://burkby.github.io/burkby/posts/hello/</link>
       <pubDate>Sat, 01 Jan 2022 21:32:14 -0500</pubDate>
       
-      <guid>https://burkby.github.io/posts/hello/</guid>
+      <guid>https://burkby.github.io/burkby/posts/hello/</guid>
       <description>Hi!</description>
     </item>
     
