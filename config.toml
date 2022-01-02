@@ -1,5 +1,5 @@
 baseURL = "https://burkby.github.io/burkby"
 languageCode = "en-us"
-title = "Burkby on github"
+title = "Hello!"
 theme = "dimension"
 publishDir = "docs"
