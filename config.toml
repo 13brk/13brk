@@ -1,5 +1,0 @@
-baseURL = "https://burkby.github.io/burkby"
-languageCode = "en-us"
-title = "Hello!"
-theme = "dimension"
-publishDir = "docs"
