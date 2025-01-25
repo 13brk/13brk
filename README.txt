@@ -5,7 +5,7 @@
 
 
 ¯\_(ツ)_/¯ 
-I'm probably forking things to debelop locally and deploy elsewhere. 
+I'm probably forking things to develop locally and deploy elsewhere. 
 
 <!---
 13brk/13brk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
