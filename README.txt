@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @13brk
 - 👀 Computer games
-- 🌱 Various frameworks
+- 🌱 Various tings
 - 🤪 goofing around
 
 <!---
